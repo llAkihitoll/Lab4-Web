@@ -2,12 +2,15 @@
   "name": "lab-4",
   "version": "1.0.0",
   "description": "",
-  "main": "servidor-corregido.js",
+  "main": "api/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
