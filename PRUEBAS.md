@@ -8,7 +8,7 @@ Todas las pruebas se realizaron con el servidor corriendo en `http://localhost:3
 
 **Descripción:** Retorna la documentación HTML de todos los endpoints.
 
-**Captura:** `screenshots/GET-raiz.png`
+**Captura:** `screenshots/GET.png`
 
 ---
 
@@ -57,7 +57,7 @@ Todas las pruebas se realizaron con el servidor corriendo en `http://localhost:3
 }
 ```
 
-**Captura:** `screenshots/GET-api-status.png`
+**Captura:** `screenshots/GET-status.png`
 
 ---
 
@@ -99,7 +99,7 @@ Todas las pruebas se realizaron con el servidor corriendo en `http://localhost:3
 }
 ```
 
-**Captura:** `screenshots/GET-videojuegos-filtro.png`
+**Captura:** `screenshots/GET-filtro.png`
 
 ---
 
